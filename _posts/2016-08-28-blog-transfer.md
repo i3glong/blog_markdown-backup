@@ -2,7 +2,7 @@
 title: 博客迁移github原先文章陆续恢复中
 categories:
 - 随笔
-permalink: blog_transfer
+permalink: blog-transfer
 date: 2016-08-28 19:50:43
 tags:
 - hexo
