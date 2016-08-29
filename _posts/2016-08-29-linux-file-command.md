@@ -1,9 +1,10 @@
 ---
 title: linux文件管理命令
 tags:
-  - null
+  - Linux
+  - openSUSE
 categories:
-  - 未分类
+  - Linux
 permalink: linux-file-command
 date: 2016-08-29 20:23:04
 ---
