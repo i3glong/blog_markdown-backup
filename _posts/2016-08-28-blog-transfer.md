@@ -9,12 +9,12 @@ tags:
 - github
 ---
 
-<Excerpt in index | 首页摘要>
-·markdown·目前还不大熟，之前文章正陆续整理。
-+<!-- more -->
-<The rest of contents | 余下全文>
+\<Excerpt in index | 首页摘要\>
+`markdown`目前还不大熟，之前文章正陆续整理。
+<!-- more -->
+\<The rest of contents | 余下全文\>
 ## 博客迁移至github
-·markdown·目前还不大熟，之前文章正陆续整理。
+`markdown`目前还不大熟，之前文章正陆续整理。
 ## hexo常用命令
 创建一篇名为helloword的文章
 `hexo new helloworld`
