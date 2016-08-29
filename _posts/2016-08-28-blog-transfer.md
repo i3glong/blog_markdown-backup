@@ -9,10 +9,10 @@ tags:
 - github
 ---
 
-\<Excerpt in index | 首页摘要\>
+<Excerpt in index | 首页摘要>
 `markdown`目前还不大熟，之前文章正陆续整理。
 <!-- more -->
-\<The rest of contents | 余下全文\>
+<The rest of contents | 余下全文\>
 ## 博客迁移至github
 `markdown`目前还不大熟，之前文章正陆续整理。
 ## hexo常用命令
